@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/toDoList-react-mui-tailwind/static/css/main.d2ac8f81.css",
-    "main.js": "/toDoList-react-mui-tailwind/static/js/main.a806d25a.js",
-    "static/media/mobi.mp4": "/toDoList-react-mui-tailwind/static/media/mobi.c72078a17b8f5cae1cfe.mp4",
+    "main.css": "/toDoList-react-mui-tailwind/static/css/main.647f91b4.css",
+    "main.js": "/toDoList-react-mui-tailwind/static/js/main.8efe8bbf.js",
     "static/media/Yekan.ttf": "/toDoList-react-mui-tailwind/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
     "index.html": "/toDoList-react-mui-tailwind/index.html",
-    "main.d2ac8f81.css.map": "/toDoList-react-mui-tailwind/static/css/main.d2ac8f81.css.map",
-    "main.a806d25a.js.map": "/toDoList-react-mui-tailwind/static/js/main.a806d25a.js.map"
+    "main.647f91b4.css.map": "/toDoList-react-mui-tailwind/static/css/main.647f91b4.css.map",
+    "main.8efe8bbf.js.map": "/toDoList-react-mui-tailwind/static/js/main.8efe8bbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ac8f81.css",
-    "static/js/main.a806d25a.js"
+    "static/css/main.647f91b4.css",
+    "static/js/main.8efe8bbf.js"
   ]
 }
